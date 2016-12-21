@@ -1,0 +1,8 @@
+# Igonre List
+*.idea/
+*.iml
+*.ipr
+*.iws
+*target/
+*log.log
+*log.html
